@@ -1,0 +1,6 @@
+@echo off
+echo Installing required packages...
+pip install tkinter tkinterdnd2 Pillow
+echo Installation complete.
+echo Running the Python script...
+python Pixelizer.py
