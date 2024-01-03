@@ -1,0 +1,1 @@
+Flushing the DNS is useful in the removal of bad caches since the flush completely removes all the information stored within the cache..
